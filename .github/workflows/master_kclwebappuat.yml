@@ -32,4 +32,4 @@ jobs:
       with:
         app-name: 'kclwebappuat'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_733fc0d52c5c4352a70fd1f810f853b1 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_50c493520d8741f3b4d87d23ea819d9d }}
